@@ -3,7 +3,7 @@ import Navbar from './Navbar';
 
 function HeroSection() {
   return (
-    <section className='relative h-screen flex flex-coljustify-center'>
+    <section className='relative h-screen flex flex-col justify-center'>
         {/* Navbar */}
         <Navbar />
         {/* Background video */}
