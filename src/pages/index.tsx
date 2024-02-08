@@ -10,6 +10,7 @@ import BgSafety from "@/../public/bg-safety.jpeg";
 import HeroSection from "@/components/HeroSection";
 
 export default function Home() {
+  
   useEffect(() => {
     const lenis = new Lenis();
     function raf(time: any) {
